@@ -1,4 +1,5 @@
 evm-network-id: 100
+openai-api-key: "asdasdasdasdasd"
 time-labels:
   - name: "Time: <1 Hour"
   - name: "Time: <1 Day"
