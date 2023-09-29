@@ -1,18 +1,1 @@
-evm-network-id: 100
-openai-api-key: "asdasdasdasdasd"
-time-labels:
-  - name: "Time: <1 Hour"
-  - name: "Time: <1 Day"
-  - name: "Time: <1 Week"
-  - name: "Time: <2 Weeks"
-  - name: "Time: <1 Month"
-priority-labels:
-  - name: "Priority: 0 (Normal)"
-  - name: "Priority: 1 (Medium)"
-  - name: "Priority: 2 (High)"
-  - name: "Priority: 3 (Urgent)"
-  - name: "Priority: 4 (Emergency)"
-default-labels:
-  - "Time: <1 Hour"
-  - "Priority: 0 (Normal)"
-promotion-comment: "\n<h6>If you enjoy the DevPool experience, please follow <a href='https://github.com/ubiquity'>Ubiquity on GitHub</a> and star <a href='https://github.com/ubiquity/devpool-directory'>this repo</a> to show your support. It helps a lot!</h6>"
+
